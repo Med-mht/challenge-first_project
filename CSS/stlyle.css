@@ -379,3 +379,12 @@ nav{
   }
 }
 /* end the second section */
+
+/* start footer section */
+.footer h4{
+  margin-bottom: 60px ;
+  width: 100%;
+  text-align: center;
+  text-transform: capitalize;
+}
+/* end footer section */
